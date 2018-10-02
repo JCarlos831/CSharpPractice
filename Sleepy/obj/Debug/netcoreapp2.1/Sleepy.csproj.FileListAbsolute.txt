@@ -1,0 +1,11 @@
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\bin\Debug\netcoreapp2.1\Sleepy.deps.json
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\bin\Debug\netcoreapp2.1\Sleepy.runtimeconfig.json
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\bin\Debug\netcoreapp2.1\Sleepy.runtimeconfig.dev.json
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\bin\Debug\netcoreapp2.1\Sleepy.dll
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\bin\Debug\netcoreapp2.1\Sleepy.pdb
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.csprojAssemblyReference.cache
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.AssemblyInfoInputs.cache
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.AssemblyInfo.cs
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.dll
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\Sleepy\obj\Debug\netcoreapp2.1\Sleepy.pdb

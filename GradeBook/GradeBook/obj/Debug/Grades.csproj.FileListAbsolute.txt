@@ -1,0 +1,6 @@
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+C:\Users\A-JMontoya\source\repos\Pluralsight\CSharp_Fundamentals_With_Visual_Studio_2015\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
